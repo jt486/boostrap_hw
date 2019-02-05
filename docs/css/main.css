@@ -10,3 +10,16 @@ html{
 body{
     background-color: white;
 }
+
+#container{
+    max-width: 1100px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.card {
+    /* Added */
+    float: none; /* Added */
+    /* Added */
+    margin: 0 auto 10px;
+}
